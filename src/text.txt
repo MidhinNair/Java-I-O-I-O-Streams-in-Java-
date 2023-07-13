@@ -1,0 +1,3 @@
+The java.io package is used to handle input and output operations. Java IO has various classes that handle input and output sources. A stream is a sequence of data.
+
+Java input stream classes can be used to read data from input sources such as keyboard or a file. Similarly output stream classes can be used to write data on a display or a file again.
